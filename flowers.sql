@@ -52,8 +52,8 @@ USE sqltoday;
 -- INNER JOIN flowers f ON f.id = fb.flowerId
 -- WHERE bouquetId = "x123";
 
-SELECT * FROM flowerBouquet fb
-INNER JOIN flowers f ON f.id = fb.flowerId
-WHERE bouquetId = "y123";
+-- SELECT * FROM flowerBouquet fb
+-- INNER JOIN flowers f ON f.id = fb.flowerId
+-- WHERE bouquetId = "y123";
 
 
